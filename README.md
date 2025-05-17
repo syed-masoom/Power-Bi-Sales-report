@@ -1,9 +1,8 @@
-# My_data_analysis_project
-
-1. I have to Create Line Chart to show the total Revenue by each Month Of Only 2011
+# Sales_Analysis_report
 
 ![Screenshot 2025-05-13 143838](https://github.com/user-attachments/assets/db6fe170-c6a1-438b-98b9-2aa482f0d06c)
 
+1. Line Chart to show the total Revenue by each Month Of Only 2011
 
 OBJECTIVES OF THIS LINE CHART 
 This line chart will help to understand Revenue distribution by each month to find out why Revenue  trend is more or less in any specific month Or to find any Seasonal pattern in this trend.
