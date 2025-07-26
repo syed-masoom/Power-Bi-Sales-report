@@ -1,7 +1,5 @@
 # Sales_Analysis_report
 
-![Screenshot 2025-05-13 143838](https://github.com/user-attachments/assets/db6fe170-c6a1-438b-98b9-2aa482f0d06c)
-
 1. Line Chart to show the total Revenue by each Month Of Only 2011
 
 OBJECTIVES OF THIS LINE CHART 
@@ -38,6 +36,8 @@ And I did some Format on this visuals to look Clean
 
 OBJECTIVES OF THIS VISUALS
 This Visual will help to understand the Geographic Region Performance and its helpful to manage stock and inventory  and plan Pricing strategically for the different Region 
+
+![Screenshot 2025-05-13 143838](https://github.com/user-attachments/assets/db6fe170-c6a1-438b-98b9-2aa482f0d06c)
 
 
 PROCESS OF CREATING THIS VISUAL I take Map Chart from visual pane and then I Put country column On  Location and quantity on Bubbles to show the Quantity of Each country
