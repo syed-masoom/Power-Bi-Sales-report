@@ -39,8 +39,8 @@ And I did some Format on this visuals to look Clean
 OBJECTIVES OF THIS VISUALS
 This Visual will help to understand the Geographic Region Performance and its helpful to manage stock and inventory  and plan Pricing strategically for the different Region 
 
+<img width="1412" height="790" alt="Forage Tata Dashboard" src="https://github.com/user-attachments/assets/5fa2c48a-71c2-4633-a778-94c3f50876c5" />
 
-"C:\Users\masoo\OneDrive\Pictures\Screenshots\Forage Tata Dashboard.png"
 
 PROCESS OF CREATING THIS VISUAL I take Map Chart from visual pane and then I Put country column On  Location and quantity on Bubbles to show the Quantity of Each country
 and After that i format this Visual to look Clean and its done 
